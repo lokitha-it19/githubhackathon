@@ -1,7 +1,7 @@
 # githubhackathon
-<h1>Let's Login..</h1></a>
+<h1><font color="red">Let's Login..</font></h1></a>
 
-<h4 style="color:red;">Team Name : Wonder Moon </h4>
+<h4>Team Name : Wonder Moon </h4>
 <h4>Team Members: <br>Lokitha.K (B.Tech IT)<br>
                   Kokila.M (B.Tech CSBS)
 </h4>
@@ -30,7 +30,7 @@ Time management was also a big deal for us.
   </ul>
 </h3>
 <hr>
-<h2>Working Models 👇<h2>
+<h2>Working Models 👇</h2>
   <img src = "README_Resourses/model1.JPG" width= "500" height = "500" > <span>  <img src = "README_Resourses/model2.JPG" width= "500" height="500">
 <hr>
 <h2>Outputs:</h2>
