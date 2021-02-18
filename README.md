@@ -30,7 +30,7 @@ Time management was also a big deal for us.
   </ul>
 </h3>
 <hr>
-<h3>Working Models 👇<h3>
+<h2>Working Models 👇<h2>
   <img src = "README_Resourses/model1.JPG" width= "500" height = "500" > <span>  <img src = "README_Resourses/model2.JPG" width= "500" height="500">
 <hr>
 <h2>Outputs:</h2>
