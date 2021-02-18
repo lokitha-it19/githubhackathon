@@ -45,18 +45,18 @@ Time management was also a big deal for us.
 <b>Technologies-</b> <br>
 HTML, CSS, JAVASCRIPT, NodeJS, MongoDB <br>
 <b>Application<b> <br>
-<b>Landing Page-<b> <br>
+<b>Landing Page-</b> <br>
 1.	Select College/Register College <br>
 2.	SignUp/SignIn <br>
 3.	Users Registered <br>
-<b>Menu-Student<b> <br>
+<b>Menu-Student</b> <br>
 1.	Stats <br>
 2.	Request CheckUp <br>
 3.	Request Campus Arrival/Departure <br>
 4.	Sanitization Status <br>
 5.	Request Leave/Mobilization <br>
 6.	Request Items <br>
-<b>Menu-Staff <b><br>
+<b>Menu-Staff </b><br>
 1.	Stats <br>
 2.	Pending Request <br>
 3.	Add Zones <br>
