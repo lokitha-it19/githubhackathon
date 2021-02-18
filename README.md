@@ -30,36 +30,36 @@ Time management was also a big deal for us.
   </ul>
 </h3>
 <hr>
-<h2>Functions in the Applications</h2>
-College Covid Tracker
-1.	College Name
-2.	Hostel Room Details
-3.	Admin/User Interface
-4.	Admin Verification 
-5.	Vaccinated Students/ Staff Details
-6.	Sanitization Status
-7.	Request Checkup
-8.	Leave/Arrival Details
-9.	Restricted /Allowed areas in Campus
-10.	Library/Canteen Orders
-Technologies-
-HTML, CSS, JAVASCRIPT, NodeJS, MongoDB
-Application
-Landing Page-
-1.	Select College/Register College
-2.	SignUp/SignIn
-3.	Users Registered
-Menu-Student
-1.	Stats
-2.	Request CheckUp
-3.	Request Campus Arrival/Departure
-4.	Sanitization Status
-5.	Request Leave/Mobilization
-6.	Request Items
-Menu-Staff
-1.	Stats
-2.	Pending Request
-3.	Add Zones
+<h2>Functions in the Applications</h2> <br>
+<b>College Covid Tracker</b> <br>
+1.	College Name <br>
+2.	Hostel Room Details <br>
+3.	Admin/User Interface <br>
+4.	Admin Verification <br>
+5.	Vaccinated Students/ Staff Details <br>
+6.	Sanitization Status <br>
+7.	Request Checkup <br>
+8.	Leave/Arrival Details <br>
+9.	Restricted /Allowed areas in Campus <br>
+10.	Library/Canteen Orders <br>
+<b>Technologies-</b> <br>
+HTML, CSS, JAVASCRIPT, NodeJS, MongoDB <br>
+<b>Application<b> <br>
+<b>Landing Page-<b> <br>
+1.	Select College/Register College <br>
+2.	SignUp/SignIn <br>
+3.	Users Registered <br>
+<b>Menu-Student<b> <br>
+1.	Stats <br>
+2.	Request CheckUp <br>
+3.	Request Campus Arrival/Departure <br>
+4.	Sanitization Status <br>
+5.	Request Leave/Mobilization <br>
+6.	Request Items <br>
+<b>Menu-Staff <b><br>
+1.	Stats <br>
+2.	Pending Request <br>
+3.	Add Zones <br>
 <hr>
 <h2>Working Models 👇</h2>
   <img src = "README_Resourses/model1.JPG" width= "500" height = "500" > <span>  <img src = "README_Resourses/model2.JPG" width= "500" height="500">
