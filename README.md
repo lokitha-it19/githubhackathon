@@ -2,7 +2,7 @@
 <h1>Let's Login..</h1></a>
 
 <h4>Team Name : Wonder Moon</h4>
-<h4>Team Members: Lokitha.K (B.Tech IT)
+<h4>Team Members: Lokitha.K (B.Tech IT)<br>
                   Kokila.M (B.Tech CSBS)
 </h4>
 <h4> Project Name:- Let's Login</h4>
@@ -31,7 +31,7 @@ Time management was also a big deal for us.
 </h3>
 <hr>
 <h3>Working Models 👇<h3>
-  
+  <img src = "README_Resources/model1.JPG" width= "400" > <span>  <img src = "README_Resources/model2.JPG" width= "400" >
 <hr>
 <h2>Outputs:</h2>
 
