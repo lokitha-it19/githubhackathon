@@ -1,5 +1,5 @@
 # githubhackathon
-<h1><font color="red">Let's Login..</font></h1></a>
+<h1>Let's Login..</h1></a>
 
 <h4>Team Name : Wonder Moon </h4>
 <h4>Team Members: <br>Lokitha.K (B.Tech IT)<br>
