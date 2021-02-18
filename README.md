@@ -31,13 +31,13 @@ Time management was also a big deal for us.
 </h3>
 <hr>
 <h3>Working Models 👇<h3>
-  <img src = "README_Resourses/model1.JPG" width= "400" > <span>  <img src = "README_Resourses/model2.JPG" width= "400" >
+  <img src = "README_Resourses/model1.JPG" width= "500" height = "500" > <span>  <img src = "README_Resourses/model2.JPG" width= "500" height="500">
 <hr>
 <h2>Outputs:</h2>
 
 <img src = "README_Resourses/image1.jpeg" width= "400" > <span>  <img src = "README_Resourses/image2.jpeg" width= "400" >
 
-<img src = "README_Resourses/image3.jpeg" width= "266" > <span><img src = "README_Resourses/image4.jpeg" width= "266" > <span>  <img src = "README_Resourses/image5.jpeg" width= "266" >
+<img src = "README_Resourses/image3.jpeg" width= "400" > <span><img src = "README_Resourses/image4.jpeg" width= "400" > <span>  <img src = "README_Resourses/image5.jpeg" width= "400" >
 <hr>
 <h2>In Short :</h2>
 <ul>
