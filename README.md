@@ -30,6 +30,37 @@ Time management was also a big deal for us.
   </ul>
 </h3>
 <hr>
+<h2>Functions in the Applications</h2>
+College Covid Tracker
+1.	College Name
+2.	Hostel Room Details
+3.	Admin/User Interface
+4.	Admin Verification 
+5.	Vaccinated Students/ Staff Details
+6.	Sanitization Status
+7.	Request Checkup
+8.	Leave/Arrival Details
+9.	Restricted /Allowed areas in Campus
+10.	Library/Canteen Orders
+Technologies-
+HTML, CSS, JAVASCRIPT, NodeJS, MongoDB
+Application
+Landing Page-
+1.	Select College/Register College
+2.	SignUp/SignIn
+3.	Users Registered
+Menu-Student
+1.	Stats
+2.	Request CheckUp
+3.	Request Campus Arrival/Departure
+4.	Sanitization Status
+5.	Request Leave/Mobilization
+6.	Request Items
+Menu-Staff
+1.	Stats
+2.	Pending Request
+3.	Add Zones
+<hr>
 <h2>Working Models 👇</h2>
   <img src = "README_Resourses/model1.JPG" width= "500" height = "500" > <span>  <img src = "README_Resourses/model2.JPG" width= "500" height="500">
 <hr>
