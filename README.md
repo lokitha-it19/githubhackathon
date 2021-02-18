@@ -41,21 +41,21 @@ Time management was also a big deal for us.
 7.	Request Checkup <br>
 8.	Leave/Arrival Details <br>
 9.	Restricted /Allowed areas in Campus <br>
-10.	Library/Canteen Orders <br>
+10.	Library/Canteen Orders <br><br>
 <b>Technologies-</b> <br>
-HTML, CSS, JAVASCRIPT, NodeJS, MongoDB <br>
+HTML, CSS, JAVASCRIPT, NodeJS, MongoDB <br><br>
 <b>Application<b> <br>
 <b>Landing Page-</b> <br>
 1.	Select College/Register College <br>
 2.	SignUp/SignIn <br>
-3.	Users Registered <br>
+3.	Users Registered <br><br>
 <b>Menu-Student</b> <br>
 1.	Stats <br>
 2.	Request CheckUp <br>
 3.	Request Campus Arrival/Departure <br>
 4.	Sanitization Status <br>
 5.	Request Leave/Mobilization <br>
-6.	Request Items <br>
+6.	Request Items <br><br>
 <b>Menu-Staff </b><br>
 1.	Stats <br>
 2.	Pending Request <br>
